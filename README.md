@@ -10,7 +10,7 @@ A simple Python GUI application to convert numbers between Binary, Decimal, Octa
 
 ## Screenshots
 
-![Screenshot](![image](https://github.com/user-attachments/assets/63a5b4cb-1d2b-4cbb-b380-c70f3c16f7b9)
+![image](https://github.com/user-attachments/assets/63a5b4cb-1d2b-4cbb-b380-c70f3c16f7b9)
 
 
 ## Requirements
